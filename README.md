@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=travelling-human" alt="travelling-human" /></a> </p>
 
-- 🔭 I’m currently working on [Full stavk projects](https://github.com/Travelling-Human) to improve my profile
+- 🔭 I’m currently working on [Full stack projects](https://github.com/Travelling-Human) to improve my profile
 
 - 🌱 I have learned **Full stack development**
 
