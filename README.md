@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=travelling-human" alt="travelling-human" /></a> </p>
 
-- 🔭 I’m currently working on [Front-End projects](https://github.com/Travelling-Human/Front-End-Projects/tree/main)
+- 🔭 I’m currently working on [Full stavk projects](https://github.com/Travelling-Human) to improve my profile
 
-- 🌱 I’m currently learning **nodejs,react,MongoDb**
+- 🌱 I have learned **Full stack development**
 
 - 👯 I’m looking to collaborate on **Web Developing projects**
 
